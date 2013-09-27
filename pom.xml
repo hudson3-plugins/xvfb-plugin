@@ -33,7 +33,7 @@ SUCH DAMAGE.
   
     <groupId>org.hudsonci.plugins</groupId>
     <artifactId>xvfb-plugin</artifactId>
-    <version>1.0.9-h-1</version>
+    <version>1.0.9-h-2-SNAPSHOT</version>
     <packaging>hpi</packaging>
     <name>Xvfb plugin</name>
     <description>Starts and stopps Xvfb with the build</description>
